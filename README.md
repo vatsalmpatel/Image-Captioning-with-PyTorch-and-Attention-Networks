@@ -12,4 +12,4 @@ The model is trained for `10` epochs with `learning rate deacy`. It needs to be 
 
 The high level picture of the entire model can look something like this (image taken from the paper):
 
-![model_image_high_level](./simplified_model.jpg)
+![model_image_high_level](./simple_nn_image.jpg)
